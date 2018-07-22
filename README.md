@@ -1,2 +1,2 @@
-#PHP Sandbox
+#PHPSandbox
 PHP app for practice
